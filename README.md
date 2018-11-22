@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canal Adultos",Visit-X TV#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Aberta",SBT GO HD
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1473487700_b796000.m3u8
+TV#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Aberta",SBT GO HD
+http://50.7.186.123:8081/live/master18/chunks.m3u8?nimblesessionid=3796769&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAxOCAxMDowOToyOCBQTSZoYXNoX3ZhbHVlPTM4c3Noc0lUb3BQVm83MElXeW0zRnc9PSZ2YWxpZG1pbnV0ZXM9MTYwJnN0cm1fbGVuPTEz
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAL ABERTO",RECORD TV ÁGUA BOA
 http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8
