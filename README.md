@@ -7,5 +7,17 @@ http://50.7.186.123:8081/live/master18/chunks.m3u8?nimblesessionid=3797902&wmsAu
 https://ul.cdn584.net:8443/hls/zq6ui.m3u8?s=TKnzZKLoslP_tc9QbY1r8A&e=1542947239
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canais",TNT
+http://212.237.41.64/live/tntseries/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canais",BAND NEWS
+http://212.237.41.64/live/bandnews/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canais",HBO
+http://ul.cdn584.net:8080/hls/qs4lwva.m3u8?s=pgS9zraHiIjIaKpbkHkdzA&e=1542987731
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canais",Rede TV
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1695741209.m3u8
+
+
